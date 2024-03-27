@@ -9,4 +9,4 @@ I'm a programming student at Artevelde University of Applied Sciences.
 
 🤝 Connect with me:
 
-https://www.linkedin.com/in/jonathandebaene/)
+https://www.linkedin.com/in/jonathandebaene/
