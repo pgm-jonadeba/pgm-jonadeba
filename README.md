@@ -6,5 +6,7 @@ I'm a programming student at Artevelde University of Applied Sciences.
 - HTML
 - CSS
 - Node.JS 
+
 🤝 Connect with me:
+
 https://www.linkedin.com/in/jonathandebaene/)
