@@ -1,8 +1,9 @@
-- 👋 Hello there, I’m Jonathan
+ 👋 Hello there, I’m Jonathan
 
 I'm a programming student at Artevelde University of Applied Sciences.
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
+
 - Javascript
 - HTML
 - CSS
