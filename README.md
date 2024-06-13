@@ -8,7 +8,7 @@
 - HTML
 - CSS
 - Node.JS
-- GSAP animations
+- GSAP Animations
 - And Much More ...
 
 🤝 Connect with me:
