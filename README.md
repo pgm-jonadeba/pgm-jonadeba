@@ -1,15 +1,15 @@
  👋 Hello there, I’m Jonathan
 
-I'm a programming student at Artevelde University of Applied Sciences.
+🏫 I'm a programming student at Artevelde University of Applied Sciences.
 
-🌱 I’m currently learning ...
+💻 I’m currently learning ...
 
 - Javascript
 - HTML
 - CSS
 - Node.JS
 - GSAP animations
-- And Much More
+- And Much More ...
 
 🤝 Connect with me:
 
