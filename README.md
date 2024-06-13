@@ -7,7 +7,9 @@ I'm a programming student at Artevelde University of Applied Sciences.
 - Javascript
 - HTML
 - CSS
-- Node.JS 
+- Node.JS
+- GSAP animations
+- and more
 
 🤝 Connect with me:
 
