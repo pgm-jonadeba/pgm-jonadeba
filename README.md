@@ -9,7 +9,7 @@ I'm a programming student at Artevelde University of Applied Sciences.
 - CSS
 - Node.JS
 - GSAP animations
-- and more
+- And Much More
 
 🤝 Connect with me:
 
